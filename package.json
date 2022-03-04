@@ -1,5 +1,5 @@
 {
-  "name": "node-typescript-structure",
+  "name": "node-typescript-babel-jest",
   "version": "1.0.0",
   "description": "NodeJS project structure with TypeScript, Babel, Jest, ESLint, Prettier and more!",
   "author": "Anderson da Silva <anderson.consultant.it@outlook.com>",
